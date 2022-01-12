@@ -5,7 +5,7 @@ const CONFIG = {
     btnIntro: '^^Oki Nhân hỏi đi.^^',
     title: ' Câu hỏi 1 liên quan tới Nhân một chút 🥰',
     desc: ' Thịnh thấy Nhân có đẹp trai không ',
-    btnYes: 'Nhân không chỉ đẹp trai mà còn hài hước năng động😘 <33',
+    btnYes: 'Nhân không chỉ đẹp trai mà còn hài hước năng động😘 <3',
     btnNo: 'Nhân xấu lắm :((',
     question: 'Câu hỏi 2: Trên thế giới hơn 7 tỉ người mà sao  lại yêu Thơ ?',
     btnReply: 'Gửi cho bạn <3',
