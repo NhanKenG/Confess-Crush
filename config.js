@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Trả lời thật lòng nha Ku',
     btnYes: 'Nhân đẹp trai lắm,còn vui tính <33',
     btnNo: 'Không nha :((',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao Thịnh lại yêu Thơ <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao Thịnh lại yêu Thơ. <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Thịnh có yêu Thơ đâu😜 Thịnh đang bứ nên mới yêu Thơ <3333333',
     mess: 'Nhân biết mà 😏. Thịnh tha cho con gái nhà người ta đi  😞😞',
