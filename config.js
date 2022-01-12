@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Nhân xấu lắm :((',
     question: 'Câu hỏi 2: Trên thế giới hơn 7 tỉ người mà sao  lại yêu Thơ ?',
     btnReply: 'Gửi cho bạn <3',
-    reply: ' Thịnh có yêu Thơ đâu tại Thịnh bứ <33333333',
+    reply: ' Thịnh có yêu Thơ đâu.Tại Thịnh đang bứ <33333333',
     mess: ' Nhân biết ngay mà 🥰.  Thịnh bứ vãi lìn 😘😘',
     messDesc: 'Mà Thơ giờ chỉ xem Thịnh là bạn à! Thôi Thịnh chơi Bê Đê đi! Nhân hỏi xong rồi Bye Thịnh.',
     btnAccept: 'Ok Bye Nhân Thịnh đi chơi Bê Đê đây <3',
