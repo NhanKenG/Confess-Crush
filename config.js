@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    titleWeb: "Nhan Hoi Dap",
+    introTitle: 'Thịnh Chó Đỏ',
+    introDesc: `Bây giờ Nhân sẽ hỏi Thịnh,Thịnh trả lời thật lòng nha`,
+    btnIntro: '^^Okiii^^',
+    title: 'Câu 1 🥰',
+    desc: ' Thịnh thấy Nhân có đẹp trai không ',
+    btnYes: 'Nhân đẹp trai mà còn vui tính nữa <33',
+    btnNo: 'Không Thịnh thấy Nhân bình thường :3',
+    question: 'Câu 2 : Tại sao Thịnh lại yêu Thơ vậy <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    reply: 'Thịnh đâu có yêu Thơ đâu,Tại Thịnh đang bứ nên mới vậy<33333333',
+    mess: ' Nhân biết ngay là Thịnh đang bứ mà 😏Nhân khuyên Thịnh nên tha cho con gái nhà người ta đi',
+    messDesc: 'Nhân nghĩ Thịnh bứ vậy chơi Bê Đê là sướng nhất rồi Thịnh.',
+    btnAccept: 'Okii Nhân Thịnh sẽ đi chơi Bê  <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
