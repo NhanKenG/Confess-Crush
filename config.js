@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Những câu hỏi cho Thịnh",
     introTitle: 'Thịnh Chó Đỏ',
     introDesc: `Nhân có vài câu hỏi muốn hỏi Thịnh`,
-    btnIntro: '^^Oki Nhân hỏi đi^^',
+    btnIntro: '^^Oki Nhân hỏi đi.^^',
     title: ' Câu hỏi 1 liên quan tới Nhân một chút 🥰',
     desc: ' Thịnh thấy Nhân có đẹp trai không ',
     btnYes: 'Nhân không chỉ đẹp trai mà còn hài hước năng động😘 <33',
